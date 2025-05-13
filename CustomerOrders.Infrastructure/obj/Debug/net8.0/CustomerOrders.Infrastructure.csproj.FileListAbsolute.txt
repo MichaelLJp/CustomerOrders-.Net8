@@ -1,0 +1,17 @@
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\bin\Debug\net8.0\CustomerOrders.Infrastructure.deps.json
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\bin\Debug\net8.0\CustomerOrders.Infrastructure.runtimeconfig.json
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\bin\Debug\net8.0\CustomerOrders.Infrastructure.dll
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\bin\Debug\net8.0\CustomerOrders.Infrastructure.pdb
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\bin\Debug\net8.0\CustomerOrders.Domain.dll
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\bin\Debug\net8.0\CustomerOrders.Domain.pdb
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.AssemblyInfo.cs
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\obj\Debug\net8.0\Customer.D09DB6CB.Up2Date
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.dll
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\obj\Debug\net8.0\refint\CustomerOrders.Infrastructure.dll
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.pdb
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\obj\Debug\net8.0\CustomerOrders.Infrastructure.genruntimeconfig.cache
+C:\Users\michj\Documents\PruebasTecnicas\Tuya.S.A\CustomerOrdersBackend\CustomerOrders.Infrastructure\obj\Debug\net8.0\ref\CustomerOrders.Infrastructure.dll

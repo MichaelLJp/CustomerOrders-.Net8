@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UhR+lkgrDqFS5lTTsQCoOLyb3GCZppZxlaX574wc9J4=",
+  "Source": "CustomerOrders.Presentation",
+  "BasePath": "_content/CustomerOrders.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
